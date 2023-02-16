@@ -10,10 +10,7 @@
 ###### npm run dev
 ###### npm run build
 ###### npm run zip
-<<<<<<< HEAD
 
 
 
 
-=======
->>>>>>> ea6678c065ee17424b1d6b14d12c4dfe49b52344
