@@ -6,7 +6,7 @@
 ###### 2. create a folder <span style="color:red"> src </span> in the root and add your project to this folder.
 ###### 3. check the correctness of your paths by default all files (pictures and others) are in the resources folder, the main script that you connect to the project must have the name  <span style="color:red"> main.js </span>
 ***
-####Build
+#### Build
 ###### npm run dev
 ###### npm run build
 ###### npm run zip
