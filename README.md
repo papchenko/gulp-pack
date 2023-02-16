@@ -1,3 +1,5 @@
+Gulp pack 1.0  
+
 add src folder to the root of your project.
 
 use  
