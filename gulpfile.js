@@ -1,6 +1,6 @@
 import gulp from "gulp";
-import { path } from "./gulp/config/path.js";
-import { plugins } from "./gulp/config/plugins.js";
+import { path } from "./gulp/path.js";
+import { plugins } from "./gulp/plugins.js";
 
 global.app = {
 	isBuild: process.argv.includes('--build'),
@@ -10,14 +10,16 @@ global.app = {
 	plugins: plugins
 }
 
-import { copy } from "./gulp/tasks/copy.js";
-import { reset } from "./gulp/tasks/reset.js";
-import { html } from "./gulp/tasks/html.js";
-import { server } from "./gulp/tasks/server.js";
-import { scss } from "./gulp/tasks/scss.js";
-import { js } from "./gulp/tasks/js.js";
-import { images } from "./gulp/tasks/images.js";
-import { zip } from "./gulp/tasks/zip.js";
+import {
+	copy,
+	html,
+	images,
+	js,
+	reset,
+	scss,
+	server,
+	zip
+} from "./gulp/plugins.js";
 
 function watcher() {
 	gulp.watch(path.watch.files, copy);
