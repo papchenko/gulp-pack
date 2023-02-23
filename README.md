@@ -1,4 +1,4 @@
-![img](https://raw.githubusercontent.com/papchenko/gulp-pack/b0b1a0bc6de4db51dc9e72a303d4387f80c78b25/gulp-logo.svg)
+![img](https://raw.githubusercontent.com/papchenko/gulp-pack/418efb1971e068e3955fcd06387d67e60765c233/gulp-logo.svg)
 ##### version 1.0
 
 ### How to use
