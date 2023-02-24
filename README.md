@@ -16,6 +16,7 @@ npm run zip
 ```
 
 ##### Which are the **dependencies** in the current **pack**
+```
 + gulp
     - gulp-cli
     - gulp-autoprefixer
@@ -34,7 +35,7 @@ npm run zip
 + browser-sync
 + del
 + sass
-
+```
 
 
 
