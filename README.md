@@ -14,6 +14,28 @@ npm run dev
 npm run build
 npm run zip
 ```
+
 ##### Which are the **dependencies** in the current **pack**
++ gulp
+    - gulp-cli
+    - gulp-autoprefixer
+    - gulp-clean-css
+    - gulp-file-include
+    - gulp-group-css-media-queries
+    - gulp-if
+    - gulp-imagemin
+    - gulp-newer
+    - gulp-rename
+    - gulp-replace
+    - gulp-sass
+    - gulp-zip
++ webpack
+    - webpack-stream
++ browser-sync
++ del
++ sass
+
+
+
 
 
