@@ -10,9 +10,9 @@
 
 #### Build
 ```
-npm run dev
-npm run build
-npm run zip
+npm run dev     -- developers pack
+npm run build   -- deploy / producrions pack
+npm run zip     -- create zip-file
 ```
 
 ##### Which are the **dependencies** in the current **pack**
