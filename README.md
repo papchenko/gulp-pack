@@ -14,6 +14,6 @@ npm run dev
 npm run build
 npm run zip
 ```
-
+##### Which are the **dependencies** in the current **pack**
 
 
