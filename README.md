@@ -51,4 +51,4 @@ npm run zip     -- create zip-file
 ```
 
 ## 
-> **[my portfolio](http://papchenko.com/)** 
+**[my portfolio](http://papchenko.com/)** 
