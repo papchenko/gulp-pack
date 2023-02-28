@@ -17,28 +17,34 @@ npm run zip     -- create zip-file
 
 ##### Which are the **dependencies** in the current **pack**
 ```
-+ "gulp": "^4.0.2",
+
++ "gulp": "^4.0.2"
+    "gulp-cli": "^2.3.0"
     "gulp": "^4.0.2",
-    "gulp-autoprefixer": "^8.0.0",
-    "gulp-clean-css": "^4.3.0",
-    "gulp-file-include": "^2.3.0",
-    "gulp-group-css-media-queries": "^1.2.2",
-    "gulp-if": "^3.0.0",
-    "gulp-imagemin": "^8.0.0",
-    "gulp-newer": "^1.4.0",
-    "gulp-notify": "^4.0.0",
-    "gulp-plumber": "^1.2.1",
-    "gulp-rename": "^2.0.0",
-    "gulp-replace": "^1.1.4",
-    "gulp-sass": "^5.1.0",
-    "gulp-version-number": "^0.2.4",
-    "gulp-zip": "^5.1.0",  
+    "gulp-autoprefixer": "^8.0.0"
+    "gulp-clean-css": "^4.3.0"
+    "gulp-file-include": "^2.3.0"
+    "gulp-group-css-media-queries": "^1.2.2"
+    "gulp-if": "^3.0.0"
+    "gulp-imagemin": "^8.0.0"
+    "gulp-newer": "^1.4.0"
+    "gulp-notify": "^4.0.0"
+    "gulp-plumber": "^1.2.1"
+    "gulp-rename": "^2.0.0"
+    "gulp-replace": "^1.1.4"
+    "gulp-sass": "^5.1.0"
+    "gulp-version-number": "^0.2.4"
+    "gulp-zip": "^5.1.0"
+    
 + "webpack": "^5.75.0",
      "webpack-stream": "^7.0.0"
 
 + "browser-sync": "^2.27.12"  
+
 + "del": "^6.1.1", // use only this version for correct working!  
+
 + "sass": "^1.58.3"  
+
 ```
 
 
