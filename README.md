@@ -1,10 +1,10 @@
 ![img](https://raw.githubusercontent.com/papchenko/gulp-pack/ceb3f15a649293cffd219c7d1d3e4006aa6119d9/logo.svg)
 
-##### ready Gulp for use in your projects!
+#### ready Gulp for use in your projects!
 ###### version 2.0
 
 
-### How to use
+#### How to use
 ```
 1. Download files gulpfile.js, package.json, core.js. (or Gulp-02-2023.zip)
 2. Create a folder app in the root and add your project to this folder.
