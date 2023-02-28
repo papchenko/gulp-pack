@@ -49,4 +49,4 @@ npm run zip     -- create zip-file
 
 ```
 
-> **[Visit my portfolio](http://papchenko.com/)**
+> **[my portfolio](http://papchenko.com/)**
