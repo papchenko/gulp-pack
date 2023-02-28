@@ -1,4 +1,5 @@
 ![img](https://raw.githubusercontent.com/papchenko/gulp-pack/ceb3f15a649293cffd219c7d1d3e4006aa6119d9/logo.svg)
+#### assembly Gulp ready for use in your projects!
 ##### version 2.0
 
 ### How to use
@@ -48,4 +49,4 @@ npm run zip     -- create zip-file
 
 ```
 
-> **Note:** - [Visit my portfolio](http://papchenko.com/)
+> **[Visit my portfolio](http://papchenko.com/)**
