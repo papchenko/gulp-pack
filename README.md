@@ -50,4 +50,4 @@ npm run zip     -- create zip-file
 
 ```
 
-> **[my portfolio](http://papchenko.com/)** ![img](https://github.com/papchenko/papchenko.com/blob/main/resources/favicon/favicon-32x32.png?raw=true)
+![img](https://github.com/papchenko/papchenko.com/blob/main/resources/favicon/favicon-32x32.png?raw=true) > **[my portfolio](http://papchenko.com/)** 
