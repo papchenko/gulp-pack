@@ -1,4 +1,5 @@
 ![img](https://raw.githubusercontent.com/papchenko/gulp-pack/ceb3f15a649293cffd219c7d1d3e4006aa6119d9/logo.svg)
+
 #### ready Gulp for use in your projects!
 ##### version 2.0
 
@@ -49,4 +50,4 @@ npm run zip     -- create zip-file
 
 ```
 
-> **[my portfolio](http://papchenko.com/)**
+> **![img](https://github.com/papchenko/papchenko.com/blob/main/resources/favicon/favicon-32x32.png?raw=true)[my portfolio](http://papchenko.com/)**
