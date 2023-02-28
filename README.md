@@ -39,7 +39,7 @@ npm run zip     -- create zip-file
 + webpack: ^5.75.0
      webpack-stream: ^7.0.0
 
-+ browser-sync: "2.27.12" 
++ browser-sync: 2.27.12
 
 + del: ^6.1.1 // use only this version for correct working!  
 
