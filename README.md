@@ -1,12 +1,12 @@
-![img](https://raw.githubusercontent.com/papchenko/gulp-pack/0feb4c69fe52bd7c3c28352c5aee09168d8b75ca/gulp-logo.svg)
+![img](https://raw.githubusercontent.com/papchenko/gulp-pack/ceb3f15a649293cffd219c7d1d3e4006aa6119d9/logo.svg)
 ##### version 2.0
 
 ### How to use
 ```
-1. download files gulpfile.js, package.json, core.js. (or Gulp-02-2023.zip)
-2. create a folder app in the root and add your project to this folder.
+1. Download files gulpfile.js, package.json, core.js. (or Gulp-02-2023.zip)
+2. Create a folder app in the root and add your project to this folder.
 3. Download all necessary dependencies (terminal) npm i
-4. check the correctness of your paths by default all files (pictures and others) are in the resources folder, the main script that you connect to the project must have the name main.js
+4. Check the correctness of your paths by default all files (pictures and others) are in the resources folder, the main script that you connect to the project must have the name main.js
 ```
 
 #### Build your projects
@@ -47,3 +47,5 @@ npm run zip     -- create zip-file
 + sass: ^1.58.3
 
 ```
+
+> **Note:** - [Visit my portfolio](http://papchenko.com/)
